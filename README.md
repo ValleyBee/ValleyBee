@@ -8,4 +8,6 @@ I'm
 ![Java](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=java&logoColor=F8981D)
 ![Flutter](https://img.shields.io/badge/-FLUTTER-090909?style=for-the-badge&logo=flutter&logoColor=47CAF5)
 ![Flutter-Dart](https://img.shields.io/badge/-DART-090909?style=for-the-badge&logo=Dart&logoColor=097CDB)
-
+### Platforms
+![Ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible&logoColor=B30000)
+![Terraform](https://img.shields.io/badge/-terraform-090909?style=for-the-badge&logo=terraform&logoColor=844FBA)
