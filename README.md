@@ -1,7 +1,7 @@
 ![Header](https://github.com/ValleyBee/ValleyBee/blob/main/assets/logo.png)
 
 About me
-### a few step to becoming a Software Engineer
+### a few steps to becoming a Software Engineer
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FDD746)
