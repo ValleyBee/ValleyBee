@@ -12,3 +12,6 @@ I'm
 ### Platforms
 ![Ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible&logoColor=B30000)
 ![Terraform](https://img.shields.io/badge/-terraform-090909?style=for-the-badge&logo=terraform&logoColor=844FBA)
+
+### Follow me
+[![Linkid](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/valentyn-bershatskyy-a3a020a1/)
