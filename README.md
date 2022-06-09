@@ -1,7 +1,7 @@
 ![Header](https://github.com/ValleyBee/ValleyBee/blob/main/assets/logo.png)
 
 About me
-I'm
+### a few step to becoming a Software Engineer
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FDD746)
@@ -14,4 +14,4 @@ I'm
 ![Terraform](https://img.shields.io/badge/-terraform-090909?style=for-the-badge&logo=terraform&logoColor=844FBA)
 
 ### Follow me
-[![Linkid](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/valentyn-bershatskyy-a3a020a1/)
+[![Linkid](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/valentyn-bershatskyy-a3a020a1/)
