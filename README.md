@@ -14,7 +14,7 @@ About me
 ![Terraform](https://img.shields.io/badge/-terraform-090909?style=for-the-badge&logo=terraform&logoColor=844FBA)
 
 #### badges
-![Cisco]((https://img.shields.io/badge/-ciso-090909?style=for-the-badge&logo=terraform&logoColor=844FBA)) 
+![Cisco](https://img.shields.io/badge/-cisco-090909?style=for-the-badge&logo=terraform&logoColor=844FBA)
  <!-- (<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4f2e8211-bc1b-499c-a5db-ed18e5880d95" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>) -->
 
 ### Follow me
